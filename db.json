@@ -1,6 +1,5 @@
 {
   "meetups": [
-    {},
     {
       "id": 1,
       "date": "July 24, 2020",
@@ -21,24 +20,17 @@
     }
   ],
   "leap": [
-    {}
   ],
   "recruitingMission": [
-    {}
   ],
   "vanHackathon": [
-    {}
   ],
   "openWebinar": [
-    {}
   ],
   "premium": [
-    {}
   ],
   "login": [
-    {}
   ],
   "signUp": [
-    {}
   ]
 }
