@@ -1,6 +1,24 @@
 {
   "meetups": [
-    {}
+    {},
+    {
+      "id": 1,
+      "date": "July 24, 2020",
+      "time": "7:00 PM BRT",
+      "title": "ReactJS The Lib/Framework of the Moment",
+      "description": "In this meetup you will see and understand why learn and master react can make your developer career get a big boost.",
+      "location": "São Paulo Expo",
+      "city": "São Paulo - SP"
+    },
+    {
+      "date": "July 25, 2020",
+      "time": "4:00 PM BRT",
+      "title": "Custom Hooks",
+      "description": "How to migrate your react class code to functional code can improve your productivity.",
+      "location": "Geru",
+      "city": "São Paulo - SP",
+      "id": 2
+    }
   ],
   "leap": [
     {}
@@ -8,9 +26,19 @@
   "recruitingMission": [
     {}
   ],
-  "vanHackathon": [{}],
-  "openWebinar": [{}],
-  "premium": [{}],
-  "login": [{}],
-  "signUp": [{}]
+  "vanHackathon": [
+    {}
+  ],
+  "openWebinar": [
+    {}
+  ],
+  "premium": [
+    {}
+  ],
+  "login": [
+    {}
+  ],
+  "signUp": [
+    {}
+  ]
 }
